@@ -1,0 +1,28 @@
+.bg-heading{
+    background-image: url('juventus-stadium.jpg');
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding-top: 120px;
+}
+.bg-section-category {
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.bg-kids{
+    background-image: url('kids.png');
+
+}
+
+.bg-woman {
+    background-image: url('category.jpg');
+}
+
+.bg-man {
+    background-image: url('mancategory.jpg');
+}
