@@ -1,16 +1,18 @@
 .bg-heading{
     background-image: url('juventus-stadium.jpg');
-    height: 300px;
+    height: 600px;
     background-position: center;
     background-size: cover;
     color: white;
-    text-align: center;
+    text-align: CENTER;
     padding-top: 120px;
 }
 .bg-section-category {
+    padding-top: 120px;
     height: 300px;
     background-position: center;
     background-size: cover;
+    text-align: UNSET;
 }
 
 
